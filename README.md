@@ -1,6 +1,9 @@
 # BMI Calculator Gem
 
-A simple Ruby gem to calculate Body Mass Index (BMI) based on weight and height. This gem provides a straightforward way to compute BMI and categorize it into various health categories.
+This gem is a **basic example** created for instructional purposes on how to build a Ruby gem. It includes a simple BMI Calculator as a demonstration of gem creation, but is not intended for production use.
+
+For a full walkthrough, you can watch the tutorial video on YouTube here:
+[Watch the YouTube Tutorial](https://www.youtube.com/watch?v=ExfPGQ3feQs)
 
 ## Installation
 
